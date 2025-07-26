@@ -431,7 +431,6 @@ body {
   gap: 0 40px;
 }
 
-.footer__products {}
 
 .footer__products-title,
 .footer__company-title,
@@ -446,14 +445,6 @@ body {
 .footer__company-item {
   margin-bottom: 20px;
 }
-
-.footer__products-link {}
-
-.footer__company {}
-
-
-.footer__company-link {}
-
 
 .footer__blockquote-text {
   margin-top: 80px;
@@ -471,7 +462,6 @@ body {
   display: block;
 }
 
-.footer__contacts {}
 
 .footer__contacts-text {
   font-size: 13px;
@@ -487,7 +477,6 @@ body {
   margin-right: 40px;
 }
 
-.footer__logo {}
 
 .footer__nav-contacts {
   margin-top: 20px;
@@ -531,7 +520,6 @@ body {
   height: 22px;
 }
 
-.footer__social-item {}
 
 .footer__social-link {
   display: grid;
